@@ -16,3 +16,7 @@ resource "azurerm_resource_group" "jksoam" {
   name     = "jksoam"
   location = "West Europe"
 }
+resource "azurerm_resource_group" "jksoam1" {
+  name     = "jksoam1"
+  location = "West Europe"
+}
