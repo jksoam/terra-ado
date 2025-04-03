@@ -24,3 +24,5 @@ resource "azurerm_resource_group" "jksoam3" {
   name     = "jksoam13"
   location = "West Europe"
 }
+
+123
